@@ -30,6 +30,10 @@ em {
 .pure-menu-active>.pure-menu-link, .pure-menu-link:hover, .pure-menu-link:focus {
 	background-color: transparent;
 }
+.pure-menu li {
+  margin-bottom: -0.5em;
+  margin-left: 0.5em;
+}
 
 .content {
 	padding: 2em 2em 0;
