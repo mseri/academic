@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/mseri
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://academic.mseri.me
+  * I am mseri (https://keybase.io/mseri) on keybase.
+  * I have a public key with fingerprint 4DFF F06D F74F DE5E 6AD4  B2F7 05C0 CD01 5D10 C4B4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101bcd0a55fb3398a79c5737c190a3732046d43074e7aa7a61cde562540609d26ef0a",
+            "fingerprint": "4dfff06df74fde5e6ad4b2f705c0cd015d10c4b4",
+            "host": "keybase.io",
+            "key_id": "05c0cd015d10c4b4",
+            "kid": "0101bcd0a55fb3398a79c5737c190a3732046d43074e7aa7a61cde562540609d26ef0a",
+            "uid": "7b1056bc2ba6ad8af5d4098bd1eeef19",
+            "username": "mseri"
+        },
+        "service": {
+            "hostname": "academic.mseri.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474662970,
+    "expire_in": 157680000,
+    "prev": "960ceddea9d34fc4787ea83883c999fa904e572547a9908ddf1c1d43510137cb",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSFRBGF7LVltZKiNECatDF5BF5uy5zDlbQYG+tJRYSIHFNmdmznZy
+3bPtnl2t8ApKXkpUvHQRtKiHLIhASCGxsujylFpRD6VBPhRUT2031uZYPfXavPwz
+///93//9HzPpXupwpdU9HTFzhuq/pj250x937H/X5TvJaSY5zrFYQRcDDREaswIV
+BuF8HOABr2ECkCTpmiCoCoIqlqAAMa8CJEDBC0SZiAKAIoUIQSTzmFBJ9koikIFK
+vDLVAeI8nG6EgzQaiRphi9GKRNd1IBMdijqDUxkRUfPqEEgYsGm8RHiARU1kjUfM
+mN3BxGkoRgsNk+XYI/Bb3r/4/6w7vkgHNR5Isoa9GmJSFaRLRASqohGeUqrzqg2M
+0WgYVVKGrmRXg6vxcCwmDExtV+01/pQRRoRWGrhwEVfIch4uEjUtE5shVj5iWRGf
+3W0dj9jwKqoF/hAFNCNMmJGsIUGjMcMMcz6eIbFl2My8CEVZ9qoQeDhaHTGiNGDY
+CAnKCmDHHkMTjFKVAaaEUKQSQdSxCBVIkSIoioBVVdWRCkQqQeYFRKoKFEJ0HvPM
+LYm5yizUOHu1Y2GT88lMJgoyypgRDCMrHqVczd2Jg+mONJfDuWyJ/cEcruUr/367
+hXBGamP99j737NZU7Y2uotLi65cexnPP7ip+/NraN/DlUdv4lR1N6a29s9IhT9sK
+aV17c+/Hrp7s9gblxM/c0YzKuZnBaX8qr7HXtSGnOlnuvrtlrCPT/2pt0fnb1e77
+z+qudnzI2tzYk/V5KK+2oGpo/sEX54ER/fvwseaS4Oj8jDP5olRr7D+8cK279cfo
++e6Lm9ZONq0qK4h0vRn4OpW8OZXPt/S9P/M2ORasoqd+lmxq+oRuLZ9+Ptt4etea
+Bq118NzevQOePTXL3P7s8rKWyeS4L289mLvnX93ZiTN3lu5uq/32MrTNecEVrU8M
+1x8tjLSfzB3pX3lZyg+lQhOZ+c65hV93IkMr
+=UX4g
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mseri
+
+==================================================================
+
