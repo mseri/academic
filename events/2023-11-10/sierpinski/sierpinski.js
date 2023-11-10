@@ -54,7 +54,7 @@ function resetView() {
 }
 
 
-document.getElementById("updateDepth").addEventListener("click", updateDepth);
+document.getElementById("depth").addEventListener("input", updateDepth);
 document.getElementById("resetView").addEventListener("click", resetView);
 
 // Initial draw

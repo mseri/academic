@@ -62,7 +62,7 @@ function updateDepth() {
 
 function resetView() {
   zoom = 1;
-  depth = 4;
+  depth = 2;
   startX = 50;
   startY = 200;
   endX = 550;
@@ -113,7 +113,7 @@ function handleMouseMove(event) {
     }
 }
 
-document.getElementById("updateDepth").addEventListener("click", updateDepth);
+document.getElementById("depth").addEventListener("input", updateDepth);
 document.getElementById("resetView").addEventListener("click", resetView);
 canvas.addEventListener("mousedown", handleMouseDown);
 canvas.addEventListener("mouseup", handleMouseUp);
