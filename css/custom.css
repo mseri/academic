@@ -1,16 +1,16 @@
 #layout {
-	padding: 0;
+    padding: 0;
 }
 
 h2 {
-	margin: 0;
-	padding: .5em 0;
+    margin: 0;
+    padding: 0.5em 0;
 }
 h3 {
-	margin: 0;
+    margin: 0;
 }
 h4 {
-	margin: 0;
+    margin: 0;
 }
 a {
     text-decoration: none;
@@ -24,48 +24,56 @@ a:visited {
     color: #777;
 }
 em {
-	font-weight: 300;
+    font-weight: 300;
 }
-
-.pure-menu-active>.pure-menu-link, .pure-menu-link:hover, .pure-menu-link:focus {
-	background-color: transparent;
+br {
+    margin-bottom: 7px;
+}
+.pure-menu-active > .pure-menu-link,
+.pure-menu-link:hover,
+.pure-menu-link:focus {
+    background-color: transparent;
 }
 .pure-menu li {
-  margin-bottom: -0.5em;
-  margin-left: 0.5em;
+    margin-bottom: -0.5em;
+    margin-left: 0.5em;
 }
 
 .content {
-	padding: 2em 2em 0;
+    padding: 2em 2em 0;
 }
 .content li {
     list-style: circle;
     margin-bottom: 0.5em;
 }
 .body {
-	margin-top: 2em;
+    margin-top: 2em;
 }
 .sidebar {
-	padding: 2em 1em 0;
+    padding: 2em 1em 0;
+    display: inline-block;
 }
 .footer {
-	font-size: 70%;
-	color: #777;
-	padding: 2em 1em 0;
+    font-size: 70%;
+    color: #777;
+    padding: 2em 1em 0;
 }
 
 .profile-image {
-	float: right; 
-	margin-top: .5em;
-	width: 100%;
+    float: right;
+    margin-top: 0.5em;
+    width: 100%;
 }
 .address {
-	font-style: italic;
-	color: #777;
+    font-style: italic;
+    color: #777;
 }
 .caption {
-	font-size: 90%;
-	font-style: italic;
-	padding-top: 0.5em;
-	text-align: center;
+    font-size: 90%;
+    font-style: italic;
+    padding-top: 0.5em;
+    text-align: center;
+}
+.inset {
+    margin: 20px;
 }
