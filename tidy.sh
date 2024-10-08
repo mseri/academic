@@ -2,6 +2,8 @@
 
 for i in $(ls **/*.htm*)
 do
-tidy -i --indent-spaces 2 -w 0 --join-styles yes --join-classes yes $i > $i.new
+echo $i
+echo
+tidy -i --indent-spaces 2 -w 0 $i > $i.new
 mv $i.new $i
 done
