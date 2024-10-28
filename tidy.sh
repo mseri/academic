@@ -1,6 +1,6 @@
 #/usr/bin/env zsh
 
-for i in $(ls **/*.htm*)
+for i in $(fd ".*.htm.*")
 do
 echo $i
 echo
