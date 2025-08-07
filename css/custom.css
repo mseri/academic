@@ -10,7 +10,10 @@ h3 {
     margin: 0;
 }
 h4 {
-    margin: 0;
+    margin-bottom: 10px;
+}
+h5 {
+    margin-top: 10px;
 }
 a {
     text-decoration: none;
@@ -76,4 +79,48 @@ br {
 }
 .inset {
     margin: 20px;
+}
+
+/* Collapsible sections */
+.collapsible-header {
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    margin-left: 10px;
+}
+
+.collapsible-header::before {
+    content: "▶";
+    margin-right: 0.5em;
+    font-size: 0.8em;
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+.collapsible-header.expanded::before {
+    transform: rotate(90deg);
+}
+
+.collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    margin-left: 40px;
+}
+
+.collapsible-content.expanded {
+    max-height: none;
+}
+
+.project-subsection {
+    margin-top: 1em;
+}
+
+.project-subsection h6 {
+    font-weight: bold;
+    margin: 0.5em 0 0.3em 0;
+    color: #333;
+    font-size: 1em;
 }
