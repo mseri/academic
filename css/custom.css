@@ -27,6 +27,15 @@ a:hover {
 a:visited {
     color: #777;
 }
+.project-subsection li a {
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 0.15em;
+}
+.thesis-title {
+    color: #777;
+    font-style: italic;
+}
 em {
     font-weight: 300;
 }
